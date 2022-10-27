@@ -1,0 +1,2 @@
+This is a demo txt
+It is only used to demonstrated that this server is able to display the text content
