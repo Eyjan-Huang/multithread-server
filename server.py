@@ -1,7 +1,5 @@
 """
 COEN317 Distributed System - Programming Assignment 1
-Yingjian Huang
-W1609532
 
 This project generates a simple web server which allows the user to do some HTTP interaction in between.
 According to the requests, the server will either display the target or error messages in browser.
